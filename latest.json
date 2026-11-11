@@ -1,0 +1,8 @@
+{
+  "version": "3.40",
+  "url": "https://raw.githubusercontent.com/rendez2k/3d-model-browser/ea5992c3176fb8abbef377cb829b717c584e55c5/3D%20Model%20Browser.exe",
+  "sha256": "6e949bde31a12e16c66594ee0b7c5b1f998bd8c87cc5b278f4a20e0a1bd399bd",
+  "size": 2596864,
+  "notes": "- The new look is what the app opens with, and your models are on screen the moment it opens.\n- A Print Next list: right-click a model and tick Print Next, then find them all under Print Next in the sidebar.\n- Every model shows its size in millimetres under the 3D view, and warns you if it's too big for one of your printers. Click the size to change your printers' sizes.\n- Projects you've sliced and saved show how long they take to print and how much filament they use.\n- Claude can suggest a category for models that have none, and look at your MyMiniFactory and Cults3D models too.\n- On a new PC, your favourites, tags and notes now come back from Google Drive with the models.\n- The app keeps itself up to date from now on. You can turn that off in Settings.",
+  "page": "https://github.com/rendez2k/3d-model-browser#readme"
+}
