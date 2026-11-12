@@ -1,8 +1,8 @@
 {
-  "version": "3.45",
-  "url": "https://raw.githubusercontent.com/rendez2k/3d-model-browser/7d4c779109c0e61ac12cc18dc35245a64fe8537f/3D%20Model%20Browser.exe",
-  "sha256": "3bb3481a706ac3ee301c076fe296b4695cb4f815e0895be4dae0ad7b01ba9119",
-  "size": 2663936,
-  "notes": "- Settings has a new home inside the app, in the same style as the rest of the new look. Click the cog as before.\n- Try a colour or an angle and watch it on the model you have open before you save. You can drag the model round to choose the angle.\n- Everything is in sections down the left: Previews, New Models, Tag Ideas, Your Printers and This App.\n- It tells you what you've changed and haven't saved yet. Save changes keeps them; Cancel puts things back.",
+  "version": "3.49",
+  "url": "https://raw.githubusercontent.com/rendez2k/3d-model-browser/9141802e423d303046c4b6337d2f73d75ae8aaf3/3D%20Model%20Browser.exe",
+  "sha256": "7917861c42355c1a61fea09bab7e50ad97a40b8eaa4ba6aafc84daa8f613437f",
+  "size": 2688000,
+  "notes": "- Claude can now choose the best view of a model: the right way up and facing you. New models get it by themselves if you have a Claude key (a penny or two each; the switch is in Settings under New Models). For a model you already have, open it and click Best View under the 3D view.\n- Drop new models into your folder while the app is copying to Google Drive and they now appear within about 20 seconds. Before, they had to wait for the copy to finish.\n- The line at the bottom right now shows how a copy to Google Drive is going: how much has gone and roughly how long is left.\n- \"Changes spotted\" no longer sits there after the work is done.\n- A mixed pack of models is no longer filed under a category because of one file's name.",
   "page": "https://github.com/rendez2k/3d-model-browser#readme"
 }
