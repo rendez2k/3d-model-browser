@@ -1,8 +1,8 @@
 {
-  "version": "3.49",
-  "url": "https://raw.githubusercontent.com/rendez2k/3d-model-browser/9141802e423d303046c4b6337d2f73d75ae8aaf3/3D%20Model%20Browser.exe",
-  "sha256": "7917861c42355c1a61fea09bab7e50ad97a40b8eaa4ba6aafc84daa8f613437f",
-  "size": 2688000,
-  "notes": "- Claude can now choose the best view of a model: the right way up and facing you. New models get it by themselves if you have a Claude key (a penny or two each; the switch is in Settings under New Models). For a model you already have, open it and click Best View under the 3D view.\n- Drop new models into your folder while the app is copying to Google Drive and they now appear within about 20 seconds. Before, they had to wait for the copy to finish.\n- The line at the bottom right now shows how a copy to Google Drive is going: how much has gone and roughly how long is left.\n- \"Changes spotted\" no longer sits there after the work is done.\n- A mixed pack of models is no longer filed under a category because of one file's name.",
+  "version": "3.53",
+  "url": "https://raw.githubusercontent.com/rendez2k/3d-model-browser/5ada4c5aaf4270db5bec5c4f12543ad14d45e826/3D%20Model%20Browser.exe",
+  "sha256": "d08838f881fa19efb83dab20365c7b23b01eb57185928c7f3c458721670fb08a",
+  "size": 2701824,
+  "notes": "- A pack (one folder with a folder for each model inside, like a Patreon starter library) now shows every model as its own card. Before, the whole pack was one card and the models in it were easy to miss.\n- New packs are split by themselves. For a folder you already had, open it or right-click it: if it looks like a pack the app offers to show its models separately.\n- Each model from a pack says which pack it came from, and one click shows the rest of that pack.\n- Changed your mind? Right-click one of them and choose Show Its Pack as One Card. Nothing is moved or renamed on your disk either way.\n- A model whose parts are in folders (Head, Body, Supported, STL and so on) stays as one card.",
   "page": "https://github.com/rendez2k/3d-model-browser#readme"
 }
