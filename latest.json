@@ -1,8 +1,8 @@
 {
-  "version": "3.53",
-  "url": "https://raw.githubusercontent.com/rendez2k/3d-model-browser/5ada4c5aaf4270db5bec5c4f12543ad14d45e826/3D%20Model%20Browser.exe",
-  "sha256": "d08838f881fa19efb83dab20365c7b23b01eb57185928c7f3c458721670fb08a",
-  "size": 2701824,
-  "notes": "- A pack (one folder with a folder for each model inside, like a Patreon starter library) now shows every model as its own card. Before, the whole pack was one card and the models in it were easy to miss.\n- New packs are split by themselves. For a folder you already had, open it or right-click it: if it looks like a pack the app offers to show its models separately.\n- Each model from a pack says which pack it came from, and one click shows the rest of that pack.\n- Changed your mind? Right-click one of them and choose Show Its Pack as One Card. Nothing is moved or renamed on your disk either way.\n- A model whose parts are in folders (Head, Body, Supported, STL and so on) stays as one card.",
+  "version": "3.59",
+  "url": "https://raw.githubusercontent.com/rendez2k/3d-model-browser/791f30e551075990e08d07bd0bb420a6b9b091aa/3D%20Model%20Browser.exe",
+  "sha256": "72edbe4d2cc8e850faaff97ca06105ad5290a007ac3bd4f989f739bcb4ed9d00",
+  "size": 2730496,
+  "notes": "- A model with lots of files can now be opened out: click the \"17 files\" badge on its card, or Open the Folder next to Files in the panel on the right. Every file is shown large, with its whole name and the folder it's in, where the cards were. Esc or Back puts the cards back.\n- In there, a click shows a file in the 3D view beside it, the arrow keys move from file to file, and double-click, drag and right-click work as they do on the small pictures.\n- Projects (3MF files from Bambu Studio, Orca or MakerWorld) now show how many filaments they need: coloured dots and a number on the card, and a line under the 3D view.\n- For a project with several plates it's the most any one plate needs, since each plate is a print of its own, with the total alongside.\n- If that's more than your printer can load at once, it's flagged in amber. Each printer is taken to hold 4: change that in Settings, under Your Printers.\n- A new Multicolour row in the sidebar lists everything that needs more than one filament.\n- STL and OBJ files don't say what colours they're meant for, so those show nothing.\n- The first time, the app counts through your projects in the background. The line at the bottom says how many are left.",
   "page": "https://github.com/rendez2k/3d-model-browser#readme"
 }
